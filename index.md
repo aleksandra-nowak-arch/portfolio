@@ -1,14 +1,14 @@
 # Aleksandra Nowak
 
-Jestem studentką pierwszego roku architektury na Politechnice Łódzkiej. Jestem osobą zorganizowaną i zmotywowaną. Chętnie poznaję nowe osoby i podejmuje ciekawe wyzwania, tym samym rozwijając się i ucząc wciąż nowych rzeczy.
+Jestem studentką pierwszego roku architektury na Politechnice Łódzkiej. Cechuje mnie dobra organizacja i motywacja do pracy. Chętnie poznaję nowe osoby i podejmuje ciekawe wyzwania, tym samym rozwijając się i ucząc wciąż nowych rzeczy.
 
 W pracy przykładam uwagę do szczegółów i kieruję się wrodzonym zmysłem artystycznym, który łączę z technicznymi aspektami poznanymi podczas studiów.
 
 ## Technologie
 
-Poniżej przedstawiam technologie, którymi posługuję się na co dzień podczas studiów:
+<p>Poniżej przedstawiam technologie, którymi posługuję się na co dzień podczas studiów:</p>
 
-<div style="margin-top: 1rem; display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div style="margin-top: 1rem; margin-bottom: 1rem; display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
 <img src="./images/sketchup.png" alt="Sketchup logo" width="200" style="margin-right: 12px">
 <img src="./images/archicad.png" alt="Archicad logo" width="200">
 </div>
