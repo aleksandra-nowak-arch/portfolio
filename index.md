@@ -46,11 +46,11 @@ W pracy przykładam uwagę do szczegółów i kieruję się wrodzonym zmysłem a
     <p style="text-align: center;"><small>Makieta 2</small></p>
   </div>
   <div>
-    <img src="./images/makieta3.JPG" width="600">
+    <img src="./images/makieta3.jpg" width="600">
     <p style="text-align: center;"><small>Makieta 3</small></p>
   </div>
   <div>
-    <img src="./images/makieta4.JPG" width="600">
+    <img src="./images/makieta4.jpg" width="600">
     <p style="text-align: center;"><small>Makieta 4</small></p>
   </div>
   <div>
