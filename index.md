@@ -8,14 +8,16 @@ W pracy przykładam uwagę do szczegółów i kieruję się wrodzonym zmysłem a
 
 <p>Poniżej przedstawiam technologie, którymi posługuję się na co dzień podczas studiów:</p>
 
-<div style="margin-top: 1rem; margin-bottom: 1rem; display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
-<img src="./images/sketchup.png" alt="Sketchup logo" width="200" style="margin-right: 12px">
+<div style="margin-top: 1rem; margin-bottom: 1rem; display: flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap; background-color: white; padding: 12px;">
+<img src="./images/sketchup.png" alt="Sketchup logo" width="200" style="margin-right: 12px; background: white;">
+<img src="./images/autocad.png" alt="Autocad logo"  style="margin-right: 12px;" width="200">
+<img src="./images/gimp.jpg" alt="Gimp logo"  style="margin-right: 12px;" width="200">
 <img src="./images/archicad.png" alt="Archicad logo" width="200">
 </div>
 
 ## Projekty
 
-<div style="margin-top: 4rem; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div style="margin-top: 2rem; display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div>
     <img src="./images/ogrod.png" width="600">
     <p style="text-align: center;"><small>Projekt strefy wejściowej do ogrodu botanicznego w Łodzi</small></p>
