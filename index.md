@@ -46,6 +46,10 @@ W pracy przykładam uwagę do szczegółów i kieruję się wrodzonym zmysłem a
     <img src="./images/portret.jpg" width="600">
     <p style="text-align: center;"><small>Autoportret- kredki ołówkowe</small></p>
   </div>
+   <div>
+    <img src="./images/papuga.jpg" width="600">
+    <p style="text-align: center;"><small>Rysunek - biała kredka, cienkopis</small></p>
+  </div>
   <div>
     <img src="./images/cola.JPG" width="600">
     <p style="text-align: center;"><small>Rysunek Cola- kredki ołówkowe</small></p>
